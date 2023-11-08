@@ -12,4 +12,4 @@ test2: testN
 prop: propN
 
 simple:
-  test-x: testNNN
+  test-x: testX
