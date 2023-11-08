@@ -1,0 +1,15 @@
+logging:
+  level:
+    com.example.cloud.config.client: TRACE
+    com:
+      example:
+        configclientdemo: INFO
+
+test: test
+
+test2: testN
+
+prop: propN
+
+simple:
+  test-x: testN
